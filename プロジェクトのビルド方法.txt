@@ -6,4 +6,5 @@
 
 シーンに追加します。
 
-3.Inspectorビューで「tutorialArena_01_static」のTransform
+3.Inspectorビューで「tutorialArena_01_static」のTransformのPositionを(0,0,0)にします。
+
