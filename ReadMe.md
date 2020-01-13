@@ -1,14 +1,16 @@
+# Unity-chan-Fighting
+
 中学2年生の時、Unityを使ったゲーム制作のセミナーで作成したサンプルゲームを元に作成したゲームです。
 
 ですが、ゲームに使用しているスクリプトは自作です。ちなみに、Unityで作成したゲームはこれが初めてです。
 
-＜使用したAsset＞
+## ＜使用したAsset＞
 
-ユニティちゃん 3Dモデルデータ(無料Asset)
+- ユニティちゃん 3Dモデルデータ(無料Asset)
 
-Mecanim Example Scenes(無料Asset)
+- Mecanim Example Scenes(無料Asset)
 
-＜「ユニティちゃん 3Dモデルデータ」について＞
+## ＜「ユニティちゃん 3Dモデルデータ」について＞
 
 「ユニティちゃん 3Dモデルデータ」はユニティちゃんライセンス条項に則って提供されています。
 
@@ -25,7 +27,7 @@ URL: http://unity-chan.com/contents/license_jp/
 (要約版) URL: http://unity-chan.com/contents/guideline/
 
 
-＜内容＞
+## ＜内容＞
 
 Assetsフォルダ：ゲームに使用したAssetが入っています。(ライセンスの関係上、Asset StoreからインポートしたAssetは除外してあります)
 
@@ -33,12 +35,15 @@ Unity-chan FightingVer2.1フォルダ：ゲーム本体が入っているフォ�
 
 UCL2_0フォルダ：「ユニティちゃんライセンス」の詳細につきましては、このフォルダ内のドキュメントをご覧ください。
 
+## ＜実際のプレイ動画＞
 
-＜プロジェクトのビルド方法＞
+![Demo](https://github.com/BraveDragon/Unity-chan-Fighting/blob/master/DemoPlay.gif)
+
+## ＜プロジェクトのビルド方法＞
 
 「プロジェクトのビルド方法.txt」をご覧ください。
 
-＜ゲームの操作方法＞
+## ＜ゲームの操作方法＞
 
 「ゲームの操作方法.txt」をご覧ください。
 
