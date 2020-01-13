@@ -1,0 +1,9 @@
+＜プロジェクトのビルド方法＞
+
+1.Asset Storeから「Mecanim Example Scenes」を検索してインポートします。
+
+2.インポートした「Mecanim Example Scenes」の中から「tutorialArena_01_static」を探し、Hierarchyビューにドラッグ＆ドロップして
+
+シーンに追加します。
+
+3.Inspectorビューで「tutorialArena_01_static」のTransform

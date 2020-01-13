@@ -1,0 +1,30 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2143 MB
+    Driver:   21.20.16.4542
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\BulletXNA-Unity.dll (this message is harmless)
+Loading C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\BulletXNA-Unity.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\貴田　真成\Desktop\Start\ポートフォリオ\Unity-chan Fighting\Unity-chan FightingVer2.1\Unity-chan FightingVer2.1_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.721100 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 464c -> priority: 1 
+  Thread -> id: cd0 -> priority: 1 
