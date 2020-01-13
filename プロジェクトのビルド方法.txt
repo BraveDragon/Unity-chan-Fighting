@@ -6,5 +6,8 @@
 
 シーンに追加します。
 
-3.Inspectorビューで「tutorialArena_01_static」のTransformのPositionを(0,0,0)にします。
+3.Inspectorビューで「tutorialArena_01_static」のTransformのPositionをX・Y・Z全て0にします。
 
+4.Inspectorビューで「1P」と「2P」のAnimatorのControllerを「Players」にします。
+
+5.あとは普通にビルドして下さい。
