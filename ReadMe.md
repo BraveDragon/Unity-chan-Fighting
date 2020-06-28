@@ -1,4 +1,4 @@
-# Unity-chan-Fighting
+# Unity-Fighting
 
 中学2年生の時、Unityで作成したゲームです。
 
